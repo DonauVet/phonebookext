@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root_group />
+<root_contact>
+	<contact display_name="01 Empfang" mobile_number="11" line="-1" ring="" group_id_name="All Contacts" />
+	<contact display_name="05 Palme" mobile_number="9" line="-1" ring="" group_id_name="All Contacts" />
+	<contact display_name="02 Hermes" mobile_number="8" line="-1" ring="" group_id_name="All Contacts" />
+	<contact display_name="03 Scholler" mobile_number="5" line="-1" ring="" group_id_name="All Contacts" />
+	<contact display_name="04 Karas-Räuber" mobile_number="6" line="-1" ring="" group_id_name="All Contacts" />
+	<contact display_name="06 Westermeier" mobile_number="4" line="-1" ring="" group_id_name="All Contacts" />
+	<contact display_name="07 Ziarko" mobile_number="99" line="-1" ring="" group_id_name="All Contacts" />
+	<contact display_name="08 Löffelmann" mobile_number="7" line="-1" ring="" group_id_name="All Contacts" />
+	<contact display_name="09 Janik" mobile_number="15" line="-1" ring="" group_id_name="All Contacts" />
+	<contact display_name="10 Wittmann" mobile_number="98" line="-1" ring="" group_id_name="All Contacts" />
+	<contact display_name="11 Höfler" mobile_number="17" line="-1" ring="" group_id_name="All Contacts" />
+	<contact display_name="12 Kügel" mobile_number="18" line="-1" ring="" group_id_name="All Contacts" />
+	<contact display_name="13 Klemm" mobile_number="19" line="-1" ring="" group_id_name="All Contacts" />
+</root_contact>
